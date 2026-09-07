@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.py[cod]
+.insightface/
+sample/detected_face.jpg
